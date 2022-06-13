@@ -1,0 +1,16 @@
+C:\Users\Coda\source\repos\Banka\Banka\bin\Debug\Banka.exe.config
+C:\Users\Coda\source\repos\Banka\Banka\bin\Debug\Banka.exe
+C:\Users\Coda\source\repos\Banka\Banka\bin\Debug\Banka.pdb
+C:\Users\Coda\source\repos\Banka\Banka\obj\Debug\Banka.csproj.AssemblyReference.cache
+C:\Users\Coda\source\repos\Banka\Banka\obj\Debug\Banka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coda\source\repos\Banka\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+C:\Users\Coda\source\repos\Banka\Banka\obj\Debug\Banka.exe
+C:\Users\Coda\source\repos\Banka\Banka\obj\Debug\Banka.pdb
+C:\Users\Coda\Desktop\Bank\Banka\Banka\bin\Debug\Banka.exe.config
+C:\Users\Coda\Desktop\Bank\Banka\Banka\bin\Debug\Banka.exe
+C:\Users\Coda\Desktop\Bank\Banka\Banka\bin\Debug\Banka.pdb
+C:\Users\Coda\Desktop\Bank\Banka\Banka\obj\Debug\Banka.csproj.AssemblyReference.cache
+C:\Users\Coda\Desktop\Bank\Banka\Banka\obj\Debug\Banka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coda\Desktop\Bank\Banka\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+C:\Users\Coda\Desktop\Bank\Banka\Banka\obj\Debug\Banka.exe
+C:\Users\Coda\Desktop\Bank\Banka\Banka\obj\Debug\Banka.pdb
